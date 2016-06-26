@@ -1,0 +1,20 @@
+u:\documents\visual studio 2010\Projects\PassTime\PassTime\bin\Debug\PassTime.exe
+u:\documents\visual studio 2010\Projects\PassTime\PassTime\bin\Debug\PassTime.pdb
+u:\documents\visual studio 2010\Projects\PassTime\PassTime\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\documents\visual studio 2010\Projects\PassTime\PassTime\obj\x86\Debug\PassTime.Form1.resources
+u:\documents\visual studio 2010\Projects\PassTime\PassTime\obj\x86\Debug\PassTime.Properties.Resources.resources
+u:\documents\visual studio 2010\Projects\PassTime\PassTime\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\documents\visual studio 2010\Projects\PassTime\PassTime\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\documents\visual studio 2010\Projects\PassTime\PassTime\obj\x86\Debug\PassTime.exe
+u:\documents\visual studio 2010\Projects\PassTime\PassTime\obj\x86\Debug\PassTime.pdb
+U:\Profile\Desktop\MegamanGame\PassTime\obj\x86\Debug\PassTime.exe
+U:\Profile\Desktop\MegamanGame\PassTime\obj\x86\Debug\PassTime.pdb
+U:\Profile\Desktop\MegamanGame\PassTime\bin\Debug\PassTime.exe
+U:\Profile\Desktop\MegamanGame\PassTime\bin\Debug\PassTime.pdb
+U:\Profile\Desktop\MegamanGame\PassTime\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Profile\Desktop\MegamanGame\PassTime\obj\x86\Debug\PassTime.Form1.resources
+U:\Profile\Desktop\MegamanGame\PassTime\obj\x86\Debug\PassTime.Properties.Resources.resources
+U:\Profile\Desktop\MegamanGame\PassTime\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Profile\Desktop\MegamanGame\PassTime\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\100583384\Documents\games\MegamanGame\PassTime\obj\x86\Debug\PassTime.exe
+C:\Users\100583384\Documents\games\MegamanGame\PassTime\obj\x86\Debug\PassTime.pdb
